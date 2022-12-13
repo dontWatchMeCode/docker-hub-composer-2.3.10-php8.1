@@ -4,7 +4,7 @@ Custom docker image for composer 2.3.10 with php 8.1 based on the [official](htt
 
 [Docker Hub link](https://hub.docker.com/r/mgschwandtner/composer-2.3.10-php8.1)
 
-## Usage
+## usage
 
 ```sh
 # version 1.0.1
